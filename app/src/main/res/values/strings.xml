@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MysTareas2</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+
+
+    <string name="app">Crear cuenta</string>
+    <string name="email">Correo Electronico</string>
+    <string name="Nombre">Nombre</string>
+    <string name="user">Usuario</string>
+    <string name="password2">Contraseña</string>
+    <string name="confpassword">Confirmar contraseña</string>
+    <string name="txt_help">¿No tienes cuenta?.</string>
+    <string name="txt_link">Crea una aqui</string>
+
+
+</resources>
